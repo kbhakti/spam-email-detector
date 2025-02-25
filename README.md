@@ -11,7 +11,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   https://github.com/aleena-gigi/spam-email-detector.git
+   https://github.com/kbhakti/spam-email-detector
    cd spam-email-detector
    
 2. Install Dependencies:
